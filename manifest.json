@@ -1,0 +1,10 @@
+{
+  "name": "SubGuard — Private Subscription & Leak Detector",
+  "short_name": "SubGuard",
+  "description": "100% client-side subscription, price-hike & money leak detector. Zero-upload, works offline.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#10b981",
+  "icons": []
+}
